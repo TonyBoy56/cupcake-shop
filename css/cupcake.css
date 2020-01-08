@@ -1,0 +1,22 @@
+body {
+  background-image: url("../img/background.jpg");
+  background-size: 2300px;  
+  font-family: zapfino;
+}                                  
+
+div.container {
+  text-align: center;
+  border: 2px solid black;
+  max-width: 960px;
+  margin: auto;
+}
+
+li {
+  text-align: center;
+}
+
+.flashy {
+  font-size: 40px;
+  color: red;
+  font-style: italic;
+}
