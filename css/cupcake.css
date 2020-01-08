@@ -20,3 +20,8 @@ li {
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-weight: bold;
+  color: blue;
+}
